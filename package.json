@@ -1,11 +1,11 @@
 {
-  "homepage": "https:/Jakisundays.github.io/batman-landing",
+  "homepage": "https:/jakisundays.github.io/batman-landing",
   "name": "gotham",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next export",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint",
     "predeploy": "npm run build",
